@@ -1,15 +1,17 @@
-# 202504-211V-flask
+# 🚀 Flask Users CRUD API
 
-1. clonar el repositorio
+Proyecto desarrollado con Flask que implementa una API REST para la gestión de usuarios mediante operaciones CRUD (Create, Read, Update, Delete).
 
-```bash
-git clone https://github.com/jorgeav527/202504-211V-flask.git
-cd 202504-211V-flask/
-```
+---
 
-2. Instalar uv
+## 📌 Tecnologías utilizadas
 
-```bash
-uv sync
-uv run flask --app app/main.py run --debug
-```
+- Python 3
+- Flask
+- Blueprint (arquitectura modular)
+- Thunder Client / Postman (pruebas de API)
+- Git & GitHub
+
+---
+
+## 📁 Estructura del proyecto
