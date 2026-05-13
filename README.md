@@ -1,10 +1,10 @@
-# 🚀 Flask Users CRUD API
+# Flask Users CRUD API
 
 Proyecto desarrollado con Flask que implementa una API REST para la gestión de usuarios mediante operaciones CRUD (Create, Read, Update, Delete).
 
 ---
 
-## 📌 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python 3
 - Flask
@@ -15,3 +15,4 @@ Proyecto desarrollado con Flask que implementa una API REST para la gestión de 
 ---
 
 ## 📁 Estructura del proyecto
+
